@@ -252,7 +252,6 @@ GEM
     unicode-display_width (2.6.0)
     unicode_utils (1.4.0)
     uri (1.0.2)
-    wdm (0.2.0)
     webrick (1.9.1)
 
 PLATFORMS
@@ -296,11 +295,11 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
+  listen (>= 3.7)
   observer
   ostruct
   terser
   unicode_utils
-  wdm (>= 0.1.0)
   webrick
 
 BUNDLED WITH
