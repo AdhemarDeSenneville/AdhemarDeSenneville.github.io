@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/education/";
           },
+        },{id: "nav-experience",
+          title: "Experience",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/experience/";
+          },
         },{id: "nav-prices",
           title: "Prices",
           description: "All my prices",
@@ -407,12 +414,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -452,6 +454,66 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-consultant-at-aerobat",
+          title: 'Consultant at Aerobat',
+          description: "Developing Computer-Vision tools for drones (2023–2024)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cons_aerobat/";
+            },},{id: "projects-consultant-at-e-territoire",
+          title: 'Consultant at e-Territoire',
+          description: "Leveraging AI and databases to promote municipal events (2023–2024)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cons_eterritoire/";
+            },},{id: "projects-aerospace-engineering",
+          title: 'Aerospace Engineering',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/edu_estaca/";
+            },},{id: "projects-master-2-mva-math-vision-learning",
+          title: 'Master 2 MVA (Math – Vision – Learning)',
+          description: "From September 2023 to March 2024 at École Normale Supérieure Paris-Saclay",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/edu_mva/";
+            },},{id: "projects-international-semester",
+          title: 'International Semester',
+          description: "Study at the University of Southampton from January to June 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/edu_southampton/";
+            },},{id: "projects-research-internship-at-cnes",
+          title: 'Research Internship at CNES',
+          description: "Computer Science and Artificial Intelligence Internship (Summer 2023)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/int_cnes/";
+            },},{id: "projects-internship-at-myriad-data",
+          title: 'Internship at Myriad-Data',
+          description: "Programming and Data-Science Internship (Summer 2022)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/int_myriad/";
+            },},{id: "projects-research-internship-at-nasa",
+          title: 'Research Internship at NASA',
+          description: "Artificial Intelligence Internship (May to October 2024)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/int_nasa/";
+            },},{id: "projects-internship-at-scemac",
+          title: 'Internship at SCEMAC',
+          description: "Programming Internship in Summer 2021",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/int_scemac/";
+            },},{id: "projects-dassault-challenge",
+          title: 'Dassault Challenge',
+          description: "Responsible for programming an innovative drone for agricultural assistance",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/siera_dassault/";
+            },},{id: "projects-drone-load-challenge",
+          title: 'Drone-Load Challenge',
+          description: "Programming and Project Management in partnership with Safran",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/siera_droneload/";
+            },},{id: "projects-isae-challenge",
+          title: 'ISAE Challenge',
+          description: "Project Manager for an autonomous drone competition",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/siera_racing/";
             },},{
         id: 'social-email',
         title: 'email',

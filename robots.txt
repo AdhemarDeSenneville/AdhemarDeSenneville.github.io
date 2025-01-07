@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://AdhemarDeSenneville.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://adhemardesenneville.github.io/sitemap.xml
