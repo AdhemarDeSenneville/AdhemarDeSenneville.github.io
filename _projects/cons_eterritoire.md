@@ -1,28 +1,14 @@
 ---
 layout: page
 title: Consultant at e-Territoire
-description: Leveraging AI and databases to promote municipal events (2023–2024)
-img: /assets/img/consultant-e-territoire.jpg
+description: AI and databases
+img: /assets/img/consulting/eterritoire_l.png
 importance: 1
 category: consulting
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/consultant-e-territoire.jpg" title="Consultant at e-Territoire" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-## Consultant at e-Territoire
-
 **Duration:** 2023–2024  
 **Role:** Consultant  
-
----
-
-### About e-Territoire
-
-eTerritoire is the first French professional network web platform for promoting territories. It records over a million visitors every month, serving municipalities and public services across France.
 
 ---
 
@@ -38,17 +24,14 @@ eTerritoire is the first French professional network web platform for promoting 
 ### Skills Acquired
 
 - **SQL Databases**  
-- **LangChain (RAG, Agents, Prompt Engineering)**  
+- **LangChain (RAG, Agents)**  
 - **Neural Language Processing (LLM and Low-Rank Adaptation)**  
+
 
 ---
 
-### Key Highlights
-
-- Enhanced database usability for municipalities and local services.  
-- Applied cutting-edge AI methods to automate event classification.  
-- Created efficient and relevant search tools to make data more accessible for users.
+### About e-Territoire
 
 <div class="caption">
-    <em>Harnessing AI to improve public database accessibility</em>
+    <em>eTerritoire is the first French professional network web platform for promoting territories. It records over a million visitors every month, serving municipalities and public services across France.</em>
 </div>

@@ -1,19 +1,17 @@
 ---
 layout: page
 title: Research Internship at CNES
-description: Computer Science and Artificial Intelligence Internship (Summer 2023)
-img: /assets/img/internship-cnes.jpg
+description: Summer 2023
+img: /assets/img/internship/CNES_l.png
 importance: 2
 category: internship
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/internship-cnes.jpg" title="Research Internship at CNES" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/internship/CNES_A.jpg" title="Research Internship at CNES" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-## Research Internship at CNES
 
 **Duration:** Summer 2023 (3 months)  
 **Location:** Toulouse, France  
@@ -31,7 +29,7 @@ This internship focused on leveraging AI and advanced computational tools for sp
 
 ### Missions
 
-- Applied AI methods to solve complex challenges.  
+- Applied AI  
 - Utilized CNES calculation servers for simulation and analysis.  
 - Correlated numerical models in real-time during test runs.
 
@@ -45,13 +43,3 @@ This internship focused on leveraging AI and advanced computational tools for sp
 - **Linux Proficiency**
 
 ---
-
-### Key Highlights
-
-- Advanced practical experience in the aerospace sector.
-- Strengthened expertise in artificial intelligence and simulation tools.  
-- Designed and implemented real-time model correlation tools for spacecraft systems.
-
-<div class="caption">
-    <em>Deepen my knowledge of artificial intelligence</em>
-</div>

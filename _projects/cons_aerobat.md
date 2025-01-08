@@ -1,28 +1,22 @@
 ---
 layout: page
 title: Consultant at Aerobat
-description: Developing Computer-Vision tools for drones (2023–2024)
-img: /assets/img/consultant-aerobat.jpg
+description: Computer-Vision tools for drones
+img: /assets/img/consulting/aerobat_l.png
 importance: 1
 category: consulting
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/consultant-aerobat.jpg" title="Consultant at Aerobat" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/consulting/aerobat_A.jpeg" title="Consultant at Aerobat" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 ## Consultant at Aerobat
 
-**Duration:** 2023–2024  
-**Role:** Consultant  
-
----
-
-### About Aerobat
-
-Aerobat designs, develops, builds, and programs drones for external organizations or companies. The company holds contracts with prestigious clients, including the French Navy.
+**Duration:** 2023–2024
+**Role:** Consultant
 
 ---
 
@@ -42,11 +36,8 @@ Aerobat designs, develops, builds, and programs drones for external organization
 
 ---
 
-### Key Highlights
-
-- Applied advanced AI techniques to optimize drone navigation and object detection.  
-- Strengthened real-time image processing capabilities in an embedded environment.  
+### About Aerobat
 
 <div class="caption">
-    <em>Pioneering AI-powered drone technology</em>
+    <em>Aerobat designs, develops, builds, and programs drones for external organizations or companies. The company holds contracts with prestigious clients, including the French Navy.</em>
 </div>

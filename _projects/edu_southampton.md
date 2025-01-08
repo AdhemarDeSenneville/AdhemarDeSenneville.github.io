@@ -1,21 +1,19 @@
 ---
 layout: page
-title: International Semester
-description: Study at the University of Southampton from January to June 2023
-img: /assets/img/education/Southampton.jpg
+title: International
+description: University of Southampton
+img: /assets/img/education/Southampton_l.png
 importance: 1
 category: academics
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/international-semester.jpg" title="International Semester" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/education/Southampton_outside.jpg" title="International Semester" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-## Overview
-
-**International Semester at the University of Southampton**  
+## International Semester
 **Duration:** January to June 2023
 
 ### English Proficiency
@@ -23,7 +21,7 @@ category: academics
 - **TOEIC Score:** 930/990  
 - **Duolingo Proficiency:** C1  
 
-### Course List and Scores
+### Courses
 
 - **Hypersonic & High Temperature Gas Dynamics:** 92/100  
 - **Spacecraft Orbital Mechanics:** 85/100  
