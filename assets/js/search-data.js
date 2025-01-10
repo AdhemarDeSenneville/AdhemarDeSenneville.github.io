@@ -499,6 +499,16 @@ ninja.data = [{
           description: "Summer 2021",
           section: "Projects",handler: () => {
               window.location.href = "/projects/int_scemac/";
+            },},{id: "projects-projet-fantabot",
+          title: 'Projet FantaBot',
+          description: "Developing a cryptocurrency trading bot using genetic algorithms",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_fantabot/";
+            },},{id: "projects-visual-navigation-system",
+          title: 'Visual Navigation System',
+          description: "Designing an autonomous global positioning system using satellite images",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_vns/";
             },},{id: "projects-dassault-challenge",
           title: 'Dassault Challenge',
           description: "Responsible for programming an innovative drone for agricultural assistance",
@@ -509,6 +519,11 @@ ninja.data = [{
           description: "Programming and Project Management in partnership with Safran",
           section: "Projects",handler: () => {
               window.location.href = "/projects/siera_droneload/";
+            },},{id: "projects-european-defense-tech-hackathon",
+          title: 'European Defense Tech Hackathon',
+          description: "24h to build a drone! Securing 3rd place with an Anti-Helicopter Aerial Mine",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/siera_hackaton_1/";
             },},{id: "projects-isae-challenge",
           title: 'ISAE Challenge',
           description: "Project Manager for an autonomous drone competition",
