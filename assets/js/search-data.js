@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-education",
+  },{id: "nav-education",
           title: "Education",
           description: "",
           section: "Navigation",
@@ -30,16 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/experience/";
           },
-        },{id: "nav-prices",
-          title: "Prices",
-          description: "All my prices",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/prices/";
-          },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -403,16 +389,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-a-simple-inline-announcement",
+          title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "projects-project-2",
           title: 'project 2',
@@ -499,8 +485,8 @@ ninja.data = [{
           description: "Summer 2021",
           section: "Projects",handler: () => {
               window.location.href = "/projects/int_scemac/";
-            },},{id: "projects-projet-fantabot",
-          title: 'Projet FantaBot',
+            },},{id: "projects-trading-bot",
+          title: 'Trading Bot',
           description: "Developing a cryptocurrency trading bot using genetic algorithms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_fantabot/";
@@ -510,22 +496,22 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_vns/";
             },},{id: "projects-dassault-challenge",
-          title: 'Dassault Challenge',
+          title: '🥇 Dassault Challenge',
           description: "Responsible for programming an innovative drone for agricultural assistance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/siera_dassault/";
-            },},{id: "projects-drone-load-challenge",
-          title: 'Drone-Load Challenge',
+            },},{id: "projects-safran-challenge",
+          title: '🥇🥈 Safran Challenge',
           description: "Programming and Project Management in partnership with Safran",
           section: "Projects",handler: () => {
               window.location.href = "/projects/siera_droneload/";
-            },},{id: "projects-european-defense-tech-hackathon",
-          title: 'European Defense Tech Hackathon',
+            },},{id: "projects-edth-hackathon",
+          title: '🥉 EDTH Hackathon',
           description: "24h to build a drone! Securing 3rd place with an Anti-Helicopter Aerial Mine",
           section: "Projects",handler: () => {
               window.location.href = "/projects/siera_hackaton_1/";
             },},{id: "projects-isae-challenge",
-          title: 'ISAE Challenge',
+          title: '🥉 ISAE Challenge',
           description: "Project Manager for an autonomous drone competition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/siera_racing/";
