@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dassault Challenge
+title: 🥇 Dassault Challenge
 description: Responsible for programming an innovative drone for agricultural assistance
 img: /assets/img/association/dassault_l.png
 importance: 1

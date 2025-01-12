@@ -4,7 +4,7 @@ title: Research Internship at NASA
 description: May to October 2024
 img: /assets/img/internship/NASA_l.jpg
 importance: 1
-category: internship
+category: Internships
 ---
 
 <div class="row">
@@ -22,7 +22,7 @@ category: internship
 ### Missions
 
 - Anomaly detection and mitigation in satellite telemetry data.  
-- Machine Learning models to predict atmospheric parameters to improved laser telecommunications between the Deep Space Network and LEO satellites.
+- Machine Learning models to predict atmospheric parameters to improve laser telecommunications between the Deep Space Network and LEO satellites.
 
 ---
 

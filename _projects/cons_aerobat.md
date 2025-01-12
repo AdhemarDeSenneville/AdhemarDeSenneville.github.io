@@ -4,7 +4,7 @@ title: Consultant at Aerobat
 description: Computer-Vision tools for drones
 img: /assets/img/consulting/aerobat_l.png
 importance: 1
-category: consulting
+category: Consulting
 ---
 
 <div class="row">

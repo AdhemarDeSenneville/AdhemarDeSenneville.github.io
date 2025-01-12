@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ISAE Challenge
+title: 🥉 ISAE Challenge
 description: Project Manager for an autonomous drone competition
 img: /assets/img/association/racing_l.png
 importance: 3

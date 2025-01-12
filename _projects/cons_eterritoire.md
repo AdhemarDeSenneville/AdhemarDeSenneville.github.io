@@ -4,7 +4,7 @@ title: Consultant at e-Territoire
 description: AI and databases
 img: /assets/img/consulting/eterritoire_l.png
 importance: 1
-category: consulting
+category: Consulting
 ---
 
 **Duration:** 2023–2024  
@@ -25,7 +25,7 @@ category: consulting
 
 - **SQL Databases**  
 - **LangChain (RAG, Agents)**  
-- **Neural Language Processing (LLM and Low-Rank Adaptation)**  
+- **Natural Language Processing (LLM and Low-Rank Adaptation)**  
 
 
 ---

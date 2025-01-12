@@ -1,8 +1,8 @@
 ---
 layout: page
-title: European Defense Tech Hackathon
+title: 🥉 EDTH Hackathon
 description: 24h to build a drone! Securing 3rd place with an Anti-Helicopter Aerial Mine
-img: /assets/img/association/hackaton_1_l.jpg
+img: /assets/img/association/hackaton_1_l.png
 importance: 1
 category: siera
 ---

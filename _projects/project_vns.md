@@ -2,14 +2,13 @@
 layout: page
 title: Visual Navigation System
 description: Designing an autonomous global positioning system using satellite images
-img: /assets/img/project/vns_l.jpg
 importance: 1
 category: projects
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project/vns_A.jpg" title="Satellite Images to Locate Drones" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project/vns_A.png" title="Satellite Images to Locate Drones" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

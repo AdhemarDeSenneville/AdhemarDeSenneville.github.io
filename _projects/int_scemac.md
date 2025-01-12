@@ -3,7 +3,7 @@ layout: page
 title: Internship at SCEMAC
 description: Summer 2021
 importance: 4
-category: internship
+category: Internships
 ---
 
 **Duration:** Summer 2021 (1 month)  

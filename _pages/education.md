@@ -4,7 +4,7 @@ permalink: /education/
 title: Education
 description: 
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [academics]
 horizontal: false
 ---
@@ -12,18 +12,18 @@ horizontal: false
 ### Master 2 MVA (Math, Vision, Learning)
 - **Institution:** École Normale Supérieure Paris-Saclay & Université Paris-Saclay  
 - **Date:** 2023 - 2024  
-- **Achievement:** 17.6/20  
+- **Achievement:** <span style="color:rgb(237, 188, 64); font-weight: bold;">17.6/20</span>  
+
+### Aerospace Engineering
+- **Institution:** ESTACA: School of Aeronautical and Automotive Engineering  
+- **Date:** 2019 - 2023  
+- **Achievement:** <span style="color:rgb(237, 188, 64); font-weight: bold;">Valedictorian (1/89)</span> - Vice President of SIERA  
 
 ### International Semester
 - **Institution:** University of Southampton  
 - **Date:** January to June 2023  
-- **Achievement:** GPA 4.0  
-- **English Proficiency:** TOEIC 930/990, Duolingo C1  
-
-### Aerospace Engineering
-- **Institution:** ESTACA: School of Aeronautical and Automotive Engineering  
-- **Date:** 2019 - 2022
-- **Achievement:** Valedictorian (1/89) - Vice-president of SIERA
+- **Achievement:** <span style="color:rgb(237, 188, 64); font-weight: bold;">GPA 4.0</span>  
+- **English Proficiency:** TOEIC: 930/990, Duolingo: C1
 
 ---
 

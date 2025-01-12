@@ -4,7 +4,7 @@ title: Research Internship at CNES
 description: Summer 2023
 img: /assets/img/internship/CNES_l.png
 importance: 2
-category: internship
+category: Internships
 ---
 
 <div class="row">

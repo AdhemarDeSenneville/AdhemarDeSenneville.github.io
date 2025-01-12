@@ -3,7 +3,7 @@ layout: page
 title: Engineering
 description: Aerospace division at ESTACA
 img: assets/img/education/ESTACA_l.png
-importance: 1
+importance: 2
 category: academics
 ---
 
@@ -14,8 +14,8 @@ category: academics
 </div>
 
 
-**Valedictorian (1/89)** of the Aerospace division at **ESTACA: School of Aeronautical and Automotive Engineering**  
-**GPA:** 4.0
+**Valedictorian (1/89)** of the Aerospace division at [**ESTACA: School of Aeronautical and Automotive Engineering**](www.estaca.fr)  
+**GPA:** 4.0  
 
 ### Subjects
 

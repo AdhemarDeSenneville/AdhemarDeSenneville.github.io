@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drone-Load Challenge
+title: 🥇🥈 Safran Challenge
 description: Programming and Project Management in partnership with Safran
 img: /assets/img/association/droneload_l.png
 importance: 2

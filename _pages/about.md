@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -14,15 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Fan of AI and Drones / Robotics
+**Looking for a Ph.D. in Robotics and Machine Learning...**
 
-<!--
+I am a student in Aeronautical Engineering and Machine Learning, specializing in drone design and programming. I conducted pre-doctoral research in the Image team of [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/fr/traitement-dimages) at ENS Paris-Saclay. My research project focused on few-shot learning methods for drone and satellite imagery. Prior to this, I completed my end-of-studies internship at [NASA Jet Propulsion Laboratory](/projects/int_nasa) and received the [MVA Master's degree](/projects/edu_mva) in 2024.
 
- bundle exec jekyll serve
+As Vice President of the SIERA student society focused on drones, I am passionate about participating in drone programming competitions that apply Machine Learning algorithms to real-world challenges. Notable competitions include the [Dassault Challenge](/projects/siera_dassault), [Safran Challenge](/projects/siera_droneload), [EDTH Hackathon](/projects/siera_hackaton_1), and [ISAE Challenge](/projects/siera_racing).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My CV is available <a href="./assets/pdf/cv.pdf">here</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-!-->

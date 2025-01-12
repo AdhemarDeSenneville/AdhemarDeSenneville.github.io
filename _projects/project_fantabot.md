@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Projet FantaBot
+title: Trading Bot
 description: Developing a cryptocurrency trading bot using genetic algorithms
-img: /assets/img/projet-fantabot.jpg
 importance: 1
 category: projects
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projet-fantabot.jpg" title="Projet FantaBot" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project/fantabot_A.jpg" title="Project FantaBot" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-## Projet FantaBot
+## Project FantaBot
 
 **Year:** 2021–2022  
 **Objective:** Develop a cryptocurrency trading bot with advanced decision-making algorithms.  
