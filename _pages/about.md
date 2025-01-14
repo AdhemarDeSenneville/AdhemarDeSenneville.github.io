@@ -20,5 +20,5 @@ I am a student in Aeronautical Engineering and Machine Learning, specializing in
 
 As Vice President of the SIERA student society focused on drones, I am passionate about participating in drone programming competitions that apply Machine Learning algorithms to real-world challenges. Notable competitions include the [Dassault Challenge](/projects/siera_dassault), [Safran Challenge](/projects/siera_droneload), [EDTH Hackathon](/projects/siera_hackaton_1), and [ISAE Challenge](/projects/siera_racing).
 
-My CV is available <a href="./assets/pdf/cv.pdf">here</a>.
+My CV is available <a href="./assets/pdf/CV.pdf">here</a>.
 
